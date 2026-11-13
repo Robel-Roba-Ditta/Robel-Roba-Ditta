@@ -121,7 +121,6 @@ I'm a Software Engineering student at **Addis Ababa Science and Technology Unive
 
 ## 🏆 Achievements & Certifications
 
-- 🥈 **2nd Place** — National ICPC Ethiopian Collegiate Programming Contest.
 - 🧩 **500+ Problems Solved** — A2SV Coding Academy.
 - 🎓 **Machine Learning** — Stanford Online.
 - 👁️ **Computer Vision and Machine Learning** — Handong Global University.
