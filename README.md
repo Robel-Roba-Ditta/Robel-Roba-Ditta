@@ -44,7 +44,7 @@ I'm a Software Engineering student at **Addis Ababa Science and Technology Unive
 |:---|:---|:---|
 | [🧠 Hate Speech Detector](https://github.com/Robel-Roba-Ditta/Machine-Learning-Projects_Hate-Speech-Detector) | NLP-based hate speech classification using supervised machine learning. | Python, Scikit-learn, NLP |
 | [🌫️ Air Quality Detector](https://github.com/Robel-Roba-Ditta/Machine-Learning-Project-Air-Quality-Detector) | Machine learning models for predicting air quality and pollution indicators. | Python, Pandas, Scikit-learn |
-| [☕ Kaldis Coffee](https://github.com/Robel-Roba-Ditta) | Full-stack coffee house platform with authentication, RBAC, and order management. | Next.js, NestJS, MongoDB |
+| [☕ Kaldis Coffee](https://kaldis-coffee-three.vercel.app/) | Full-stack coffee house platform with authentication, RBAC, and order management. | Next.js, NestJS, MongoDB |
 
 ---
 
